@@ -2,6 +2,7 @@
 Handle DSSP secondary structure on a PDB file.
 
 The code is in Python and Biopython package needs to be imported
+
 You can get the DSSP columns "chain" and "secondary structure" in a two-column dataframe and then easily extract all the requested information.
 
 ### Important:
